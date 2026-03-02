@@ -1,0 +1,17 @@
+medsedan-app/
+ ├── src/
+ │   ├── components/
+ │   │   ├── Navbar.jsx
+ │   │   ├── MapFrame.jsx
+ │   │   └── ReportDropdown.jsx
+ │   ├── pages/
+ │   │   ├── Login.jsx
+ │   │   ├── Signup.jsx
+ │   │   ├── Home.jsx
+ │   │   ├── Notifications.jsx
+ │   │   └── Help.jsx
+ │   ├── firebase.js
+ │   ├── App.jsx
+ │   └── main.jsx
+ ├── package.json
+ └── vite.config.js
